@@ -52,7 +52,7 @@ You will use Git and Github to recieve and submit assignments for your classes. 
 
 1. In Terminal navigate to the folder where you will be storing your assignments.
     
-**Note** This should not be your desktop or your downloads folder. Create a dedicated folder for each of your programming classes where you will store your assignments and projects.
+**Note:** This should not be your desktop or your downloads folder. Create a dedicated folder for each of your programming classes where you will store your assignments and projects.
 {: .notice}
 
 <video src="https://user-images.githubusercontent.com/113143064/214609279-cd67a4b2-3d4a-4c92-b8a0-09114c0ac075.mov" controls="controls" style="max-width: 550px;"></video>
