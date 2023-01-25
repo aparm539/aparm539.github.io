@@ -30,27 +30,23 @@ But how does Git make all that possible? Let’s dive deeper into how you will u
 ### What is GitHub?
 A website that can be used to host repositories online.
 
-### What is a repository?
+### What is a Repository?
 The folder on your computer where you coding project is stored. 
 
-### So what does Git do? 
+### So What Does Git Do? 
 
 Every time you save a file in git it takes a snapshot of the respository. In other words git basically takes a picutre of what all your files look like at that moment and stores a reference to that snapshot. If nothing has changed git doesnt store the file again and just keeps the old copy. 
 
 <img src="https://git-scm.com/book/en/v2/images/snapshots.png">
 
-### What will we use Git and Github for
+### What Will We Use Git and Github For?
 
 You will use Git and Github to recieve and submit assignments for your classes. Let's go through how to do these things. 
 
 **Note:** This guide assumes you have installed Git and connected it with your GitHub account.
 {: .notice}
 
-
-
 ### Cloning an assignment
-
-
 
 1. In Terminal navigate to the folder where you will be storing your assignments.
 
@@ -86,15 +82,17 @@ You will use Git and Github to recieve and submit assignments for your classes. 
 
 ### Uploading an assignment to Github
 
-1. Use the command:
+1. After you've made some changes use the command:
 
     `git status` 
 
-You should see the files you have modified in red. 
+    You should see the files you have modified in red. 
 
-2. Next stage your changes using:
+2. Next stage all the files you have changed using the command:
 
-    `git add  <file you want to add>`
+    `git add .`
+    
+    **Note:** If you only need to add a specific file, you can do so with the following command: `git add "file you want to add"`
 
 3. commit the staged changes using  
 
