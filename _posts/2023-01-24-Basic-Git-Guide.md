@@ -44,6 +44,9 @@ Every time you save a file in git it takes a snapshot of the respository. In oth
 
 You will use Git and Github to recieve and submit assignments for your classes. Let's go through how to do these things. 
 
+**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
+{: .notice}
+
 **Note:**
 This guide assumes you have installed Git and connected it with your GitHub account.
 
