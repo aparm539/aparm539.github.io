@@ -46,15 +46,23 @@ Every time you save a file in git it takes a snapshot of the respository. In oth
 You will use Git and Github to recieve and submit assignments for your classes. Let's Go through how to do these things. 
 
 **Note:**
-This guide assumes you have installed Git and connected it with your GitHub account
+This guide assumes you have installed Git and connected it with your GitHub account.
 
 ### Cloning an assignment
 
-In your terminal run the following command: 
+1. In the Terminal navigate to the folder where you will be storing your assignments
+    **Note** This should not be your desktop or your downloads folder. Create a dedicated folder for each of your programming classes where you will store your assignments and projects. 
 
-` git clone <url>`
+2. In your browser find the github page for your assignment. Click on the green code button and copy the HTTPS link. 
+    **Note** The link to the GitHub page for your assignment will usually be on D2L. You need the link you get after clicking the green button not the one at the top of your browser.  
 
-Thats all!
+3. Return to your Terminal and run the following command:
+   
+    `git clone "url you copied after clicking the green button"`
+
+4. You can check and see that the folder has been created on your computer.
+
+That's all! The assignment is now on your computer and you can work on it! 
 
 ### Uploading an assignment to Github
 
