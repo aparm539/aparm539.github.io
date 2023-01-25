@@ -53,7 +53,7 @@ This guide assumes you have installed Git and connected it with your GitHub acco
     
     **Note** This should not be your desktop or your downloads folder. Create a dedicated folder for each of your programming classes where you will store your assignments and projects.  
 
-<video src="https://user-images.githubusercontent.com/113143064/214609279-cd67a4b2-3d4a-4c92-b8a0-09114c0ac075.mov" controls="controls" style="max-width: 50%;"></video>
+<video src="https://user-images.githubusercontent.com/113143064/214609279-cd67a4b2-3d4a-4c92-b8a0-09114c0ac075.mov" controls="controls" style="max-width: 550px;"></video>
 
 2. In your browser find the GitHub page for your assignment. Click on the green code button and copy the HTTPS link. 
     
@@ -82,15 +82,15 @@ That's all! The assignment is now on your computer and you can work on it!
 
 You should see the files you have modified in red. 
 
-1. Next stage your changes using:
+2. Next stage your changes using:
 
     `git add  <file you want to add>`
 
-2. commit the staged changes using  
+3. commit the staged changes using  
 
     `git commit -m "Write your reason for commiting here"`
 
-3. sync the changes wih github using the following command: 
+4. sync the changes wih github using the following command: 
 
     `git push`
 
