@@ -38,8 +38,6 @@ The folder on your computer where you coding project is stored.
 Every time you save a file in git it takes a snapshot of the respository. In other words git basically takes a picutre of what all your files look like at that moment and stores a reference to that snapshot. If nothing has changed git doesnt store the file again and just keeps the old copy. 
 
 <img src="https://git-scm.com/book/en/v2/images/snapshots.png">
-<>
-
 
 ### What will we use Git and Github for
 
@@ -51,16 +49,25 @@ This guide assumes you have installed Git and connected it with your GitHub acco
 ### Cloning an assignment
 
 1. In the Terminal navigate to the folder where you will be storing your assignments
-    **Note** This should not be your desktop or your downloads folder. Create a dedicated folder for each of your programming classes where you will store your assignments and projects. 
+    **Note** This should not be your desktop or your downloads folder. Create a dedicated folder for each of your programming classes where you will store your assignments and projects.  
+
+https://user-images.githubusercontent.com/113143064/214609279-cd67a4b2-3d4a-4c92-b8a0-09114c0ac075.mov
 
 2. In your browser find the github page for your assignment. Click on the green code button and copy the HTTPS link. 
     **Note** The link to the GitHub page for your assignment will usually be on D2L. You need the link you get after clicking the green button not the one at the top of your browser.  
 
+https://user-images.githubusercontent.com/113143064/214609461-10c9165f-431d-4cae-9d7a-45c5c714a379.mov
+
 3. Return to your Terminal and run the following command:
    
     `git clone "url you copied after clicking the green button"`
+    
+https://user-images.githubusercontent.com/113143064/214609542-ff1954c8-e368-43ac-a2dc-b170a951cdcf.mov
+
 
 4. You can check and see that the folder has been created on your computer.
+
+https://user-images.githubusercontent.com/113143064/214609657-4b1699f0-dbe6-4160-bc94-6c38e10c5b7d.mov
 
 That's all! The assignment is now on your computer and you can work on it! 
 
