@@ -1,0 +1,87 @@
+<!--git config: Edits git configuration on your user profile
+
+git clone: Download a copy of a repository to your local computer
+
+git status: Show the current state of the git repository
+
+git add: Add new files or changes to existing files to the staging area to be committed
+
+git commit: take a snapshot of the current state and store it with a message
+
+git pull: Retrieve changes from a remote repository
+
+git push: Send changes to a remote repository-->
+
+
+### What is Git?
+
+A google search for “git” might lead you to <a href="https://git-scm.com">git-scm.com</a>. A website created by and maintained by members of the Git community. The description they provide is short: 
+
+>Git is a free and open-source distributed version control system designed to handle everything from small to very large projects with speed and efficiency
+
+I’ll be honest, when I first read the explanation above, I didn’t understand it. I will try and make that description a little more digestible. 
+
+### What is Version Control? 
+
+Version control is keeping track of all the changes made to files or programs.
+
+This makes it easier to:
+-	Collaborate with others on code
+-	Understand why changes were made to a program.
+-	Find out who made those changes
+-	Find out when your code stopped working as intended
+
+But how does Git make all that possible? Let’s dive deeper into how you will use Git and GitHub at school to find out.
+
+### What is GitHub?
+A website that can be used to host repositories online
+
+### What is a repository?
+The folder on your computer where you coding project is stored. 
+
+### So what does Git do? 
+
+Every time you save a file in git it takes a snapshot of the respository. In other words git basically takes a picutre of what all your files look like at that moment and stores a reference to that snapshot. If nothing has changed git doesnt store the file again and just keeps the old copy. 
+
+<img src="https://git-scm.com/book/en/v2/images/snapshots.png">
+<>
+
+
+### What will we use Git and Github for
+
+You will use Git and Github to recieve and submit assignments for your classes. Let's Go through how to do these things. 
+
+**Note:**
+This guide assumes you have installed Git and connected it with your GitHub account
+
+### Cloning an assignment
+
+In your terminal run the following command: 
+
+` git clone <url>`
+
+Thats all!
+
+### Uploading an assignment to Github
+
+1. Use the command:
+
+    `git status` 
+
+You should see the files you have modified in red. 
+
+1. Next stage your changes using:
+
+    `git add  <file you want to add>`
+
+2. commit the staged changes using  
+
+    `git commit -m "Write your reason for commiting here"`
+
+3. sync the changes wih github using the following command: 
+
+    `git push`
+
+Thats it!
+
+Once you get your accounts connected and the terminal stops looking scary it is really easy to use git and github. 
