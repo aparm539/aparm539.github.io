@@ -1,18 +1,3 @@
-<!--git config: Edits git configuration on your user profile
-
-git clone: Download a copy of a repository to your local computer
-
-git status: Show the current state of the git repository
-
-git add: Add new files or changes to existing files to the staging area to be committed
-
-git commit: take a snapshot of the current state and store it with a message
-
-git pull: Retrieve changes from a remote repository
-
-git push: Send changes to a remote repository-->
-
-
 ### What is Git?
 
 A google search for “git” might lead you to <a href="https://git-scm.com">git-scm.com</a>. A website created by and maintained by members of the Git community. The description they provide is short: 
@@ -85,3 +70,18 @@ You should see the files you have modified in red.
 Thats it!
 
 Once you get your accounts connected and the terminal stops looking scary it is really easy to use git and github. 
+
+<!--git config: Edits git configuration on your user profile
+
+git clone: Download a copy of a repository to your local computer
+
+git status: Show the current state of the git repository
+
+git add: Add new files or changes to existing files to the staging area to be committed
+
+git commit: take a snapshot of the current state and store it with a message
+
+git pull: Retrieve changes from a remote repository
+
+git push: Send changes to a remote repository-->
+
