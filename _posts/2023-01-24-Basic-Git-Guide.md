@@ -9,7 +9,7 @@ tags:
 
 ### What is Git?
 
-A google search for “git” might lead you to <a href="https://git-scm.com">git-scm.com</a>. A website created by and maintained by members of the Git community. The description they provide is short: 
+A google search for “git” might lead you to <a href="https://git-scm.com">git-scm.com</a>. A website created and maintained by members of the Git community. The description they provide is short: 
 
 >Git is a free and open-source distributed version control system designed to handle everything from small to very large projects with speed and efficiency
 
@@ -55,6 +55,10 @@ You will use Git and Github to recieve and submit assignments for your classes. 
 **Note:** This should not be your desktop or your downloads folder. Create a dedicated folder for each of your programming classes where you will store your assignments and projects.
 {: .notice}
 
+<!--
+Code for video taken from:
+Cazzulino, D. (2021, July 23). How to embed videos in GitHub Pages without growing the repository size. Daniel Cazzulino. Retrieved January 23, 2023, from https://www.cazzulino.com/github-pages-embed-video.html 
+-->
 <video src="https://user-images.githubusercontent.com/113143064/214609279-cd67a4b2-3d4a-4c92-b8a0-09114c0ac075.mov" controls="controls" style="max-width: 550px;"></video>
 
 2. In your browser find the GitHub page for your assignment. Click on the green code button and copy the HTTPS link. 
@@ -113,5 +117,8 @@ git commit: take a snapshot of the current state and store it with a message
 
 git pull: Retrieve changes from a remote repository
 
-git push: Send changes to a remote repository-->
+git push: Send changes to a remote repository
+
+Chacon, S., &amp; Straub, B. (2014). Pro Git. git-scm. Retrieved January 23, 2023, from https://git-scm.com/book/en/v2 
+-->
 
