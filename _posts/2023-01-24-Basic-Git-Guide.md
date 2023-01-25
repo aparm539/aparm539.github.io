@@ -1,3 +1,12 @@
+---
+title: 'Basic Git Guide'
+date: 2023-01-24
+permalink: /posts/2023/01/Basic-Git-Guide/
+tags:
+  - Git
+  - Introductory
+---
+
 ### What is Git?
 
 A google search for “git” might lead you to <a href="https://git-scm.com">git-scm.com</a>. A website created by and maintained by members of the Git community. The description they provide is short: 
