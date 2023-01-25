@@ -12,7 +12,6 @@ tags:
 A google search for “git” might lead you to <a href="https://git-scm.com">git-scm.com</a>. A website created by and maintained by members of the Git community. The description they provide is short: 
 
 >Git is a free and open-source distributed version control system designed to handle everything from small to very large projects with speed and efficiency
-![image](https://user-images.githubusercontent.com/113143064/214611495-8cbefb3f-4dd1-4b5d-861a-a7f94ee65866.png)
 
 I’ll be honest, when I first read the explanation above, I didn’t understand it. I will try and make that description a little more digestible. 
 
@@ -53,13 +52,15 @@ You will use Git and Github to recieve and submit assignments for your classes. 
 
 1. In Terminal navigate to the folder where you will be storing your assignments.
     
-    **Note** This should not be your desktop or your downloads folder. Create a dedicated folder for each of your programming classes where you will store your assignments and projects.  
+**Note** This should not be your desktop or your downloads folder. Create a dedicated folder for each of your programming classes where you will store your assignments and projects.
+{: .notice}
 
 <video src="https://user-images.githubusercontent.com/113143064/214609279-cd67a4b2-3d4a-4c92-b8a0-09114c0ac075.mov" controls="controls" style="max-width: 550px;"></video>
 
 2. In your browser find the GitHub page for your assignment. Click on the green code button and copy the HTTPS link. 
     
-    **Note** The link to the GitHub page for your assignment will usually be on D2L. You need the link you get after clicking the green button **not** the one at the top of your browser.  
+**Note:** The link to the GitHub page for your assignment will usually be on D2L. You need the link you get after clicking the green button **not** the one at the top of your browser.
+{: .notice}
 
 <video src="https://user-images.githubusercontent.com/113143064/214609461-10c9165f-431d-4cae-9d7a-45c5c714a379.mov" controls="controls" style="max-width: 550px;"></video>
 
