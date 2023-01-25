@@ -53,7 +53,7 @@ This guide assumes you have installed Git and connected it with your GitHub acco
     
     **Note** This should not be your desktop or your downloads folder. Create a dedicated folder for each of your programming classes where you will store your assignments and projects.  
 
-<video src="https://user-images.githubusercontent.com/113143064/214609279-cd67a4b2-3d4a-4c92-b8a0-09114c0ac075.mov" controls="controls" style="max-width: 550px;"></video>
+<video src="https://user-images.githubusercontent.com/113143064/214609279-cd67a4b2-3d4a-4c92-b8a0-09114c0ac075.mov" controls="controls" style="max-width: 50%;"></video>
 
 2. In your browser find the GitHub page for your assignment. Click on the green code button and copy the HTTPS link. 
     
