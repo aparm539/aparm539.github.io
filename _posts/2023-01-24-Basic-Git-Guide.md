@@ -82,29 +82,39 @@ You will use Git and Github to recieve and submit assignments for your classes. 
 
 ### Uploading an assignment to Github
 
-1. After you've made some changes use the command:
+1. Open Terminal and navigate to the folder where your assignment is saved:
 
-    `git status` 
+    
+
+2. Type in the following command: 
+   
+    `git status`
 
     You should see the files you have modified in red. 
 
-2. Next stage all the files you have changed using the command:
+
+
+3. Next stage all the files you have changed using the command:
 
     `git add .`
     
     **Note:** If you only need to add a specific file, you can do so with the following command: `git add "file you want to add"`
 
-3. commit the staged changes using  
+4. Commit the staged changes using the command:   
 
-    `git commit -m "Write your reason for commiting here"`
+    `git commit -m "Description of changes made"`
 
-4. sync the changes wih github using the following command: 
+    The `-m` portion of the command stands for message. Make sure to include a descriptive message of what changes you have made.  
+
+5. Sync the changes wih GitHub using the following command: 
 
     `git push`
 
 Thats it!
 
-Once you get your accounts connected and the terminal stops looking scary it is really easy to use git and github. 
+You can return to the GitHub page for the repository in your browser and view the changes.  
+
+
 
 <!--git config: Edits git configuration on your user profile
 
