@@ -84,31 +84,42 @@ You will use Git and Github to recieve and submit assignments for your classes. 
 
 1. Open Terminal and navigate to the folder where your assignment is saved:
 
-    
+    <video src="https://user-images.githubusercontent.com/113143064/214895558-de502087-c165-4781-b9ad-d68d455bebbf.mov" controls="controls" style="max-width:550px;"></video>    
+
 
 2. Type in the following command: 
    
     `git status`
 
     You should see the files you have modified in red. 
-
-
+    
+    <video src="https://user-images.githubusercontent.com/113143064/214895585-afdf5c52-4be4-4ca4-a8c9-be425ffa08a4.mov" controls="controls" style="max-width:550px;"></video> 
 
 3. Next stage all the files you have changed using the command:
 
     `git add .`
     
-    **Note:** If you only need to add a specific file, you can do so with the following command: `git add "file you want to add"`
+     **Note:** If you only need to add a specific file, you can do so with the following command: `git add "file you want to add"`
+     {: .notice}
+     
+    <video src="https://user-images.githubusercontent.com/113143064/214895731-af8627f3-4c52-4f86-b54d-bda97908989d.mov" controls="controls" style="max-width:550px;"></video> 
+    
 
 4. Commit the staged changes using the command:   
 
     `git commit -m "Description of changes made"`
 
-    The `-m` portion of the command stands for message. Make sure to include a descriptive message of what changes you have made.  
+    The `-m` portion of the command stands for message. Make sure to include a descriptive message of what changes you have made.
+    
+    <video src="https://user-images.githubusercontent.com/113143064/214895748-f2739226-4bd3-458f-80da-1ec1cb5c66fb.mov" controls="controls" style="max-width:550px;"></video> 
+    
 
 5. Sync the changes wih GitHub using the following command: 
 
     `git push`
+    
+    <video src="https://user-images.githubusercontent.com/113143064/214895789-a4315e6a-fcc8-4a0b-a624-2e36abf3282c.mov" controls="controls" style="max-width:550px;"></video> 
+    
 
 Thats it!
 
