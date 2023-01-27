@@ -7,7 +7,7 @@ tags:
   - Introductory
 ---
 
-Packages in Java group related classes. It may be easier to think of a package think of it as a folder.
+Packages in Java group related classes. It may be easier to think of a package as a folder.
 
 ## Why do we group related classes? 
 
