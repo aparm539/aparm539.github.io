@@ -123,7 +123,9 @@ You will use Git and Github to recieve and submit assignments for your classes. 
 
 Thats it!
 
-You can return to the GitHub page for the repository in your browser and view the changes.  
+You can return to the GitHub page for the repository in your browser and view the changes.
+
+Content has been adapted from Chapters 1 and 2 of [Git Pro](https://git-scm.com/book/en/v2) by Scott Chacon and Ben Straub, used under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/). The article "Basic Git Guide" is licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) by Abhay Parmar. 
 
 
 
