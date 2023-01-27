@@ -1,19 +1,93 @@
 ---
-layout: single
-title:  "Draft Post"
-header:
-  teaser: "unsplash-gallery-image-2-th.jpg"
-categories: 
-  - Jekyll
+title: 'Creating Your First Java Program'
+date: 2023-01-26
+permalink: /posts/2023/01/Creating Your First Java Program/
 tags:
-  - edge case
+  - Java
+  - Introductory
 ---
-Monocle ipsum dolor sit amet handsome pariatur aliqua, hub remarkable irure commodo classic deserunt bespoke. Sunt commodo signature, Swiss minim flat white Tsutaya excepteur artisanal et Nordic laborum joy ANA. Beams mollit exquisite Ginza efficient dolore qui Comme des Garçons Winkreative Lufthansa bulletin global. Iconic sed liveable duis. Mollit dolore eu laboris Comme des Garçons hub pintxos sed eiusmod tote bag Shinkansen nisi consectetur pariatur. Nordic international quis finest Baggu dolore, bureaux hub hand-crafted ut joy sint Airbus A380.
 
-Conversation handsome hub cosy, enim emerging sed K-pop velit Gaggenau charming proident et boulevard ryokan. Remarkable airport deserunt international est, nulla minim magna emerging discerning in exclusive dolor. Commodo dolore deserunt cosy, global Nordic culpa uniforms signature charming. Smart ryokan commodo, eiusmod global occaecat incididunt aliqua Beams. Boulevard conversation excepteur finest Swiss non veniam Comme des Garçons essential artisanal. Destination Scandinavian international, anim Boeing 787 in duis Baggu irure essential.
+## Why Is Java So Complicated?
 
-Fugiat exclusive laborum, Gaggenau ad Winkreative sharp elit labore. Remarkable officia ryokan Boeing 787, consectetur boutique Nordic Singapore espresso elit iconic perfect izakaya soft power excepteur. Ut veniam carefully curated K-pop dolore, uniforms in voluptate. Craftsmanship Ettinger Lufthansa sophisticated esse boutique veniam exquisite. Aute cillum bespoke, intricate consectetur in exquisite international lovely bulletin irure Washlet Gaggenau deserunt. Efficient eu quality of life wardrobe labore, dolor emerging airport concierge reprehenderit izakaya dolore liveable Baggu.
+Lets compare the classic programming practice of creating a "Hello World" program in Java and Python. The purpose of this program is simple: Output the text "Hello World" to the console.
 
-Commodo elegant essential consectetur Gaggenau culpa consequat id sophisticated St Moritz sunt conversation duis non velit. Nulla business class non ut Marylebone ANA soft power fugiat carefully curated. Bureaux sed punctual handsome Washlet impeccable hand-crafted aute extraordinary tote bag enim boulevard soft power sleepy. Dolore conversation irure Zürich the best adipisicing, vibrant finest hub anim premium aliqua. Cupidatat smart international, bureaux Baggu id efficient punctual. Tempor nulla flat white enim, K-pop incididunt elit efficient Toto uniforms concierge discerning. Concierge sleepy extraordinary, deserunt Melbourne commodo Nordic Winkreative Washlet Ginza exercitation espresso.
+### Steps For "Hello World" In Python 
+1. Open Visual Studio Code.
+   
+2. Create a new file.
+   
+3. Write the following command: `print("Hello World")`. 
+   
+4. Save the file as "helloWorld.py".
+   
+5. Press f5 to run the program. 
 
-Tsutaya sed in business class sharp. Do Beams in adipisicing Lufthansa. Business class occaecat Melbourne, irure Singapore commodo espresso carefully curated quis quality of life adipisicing. Impeccable laborum efficient classic proident in. Beams Helsinki ullamco Marylebone dolore sophisticated concierge Muji anim duis joy ut. Comme des Garçons aute Muji in aliquip ryokan soft power Nordic essential ANA culpa elegant.
+5 steps for everything from creating the file to running the program. Now let's compare this to Java. 
+
+### Steps for "Hello World" In Java
+
+1. Open Eclispe.
+   
+2. Create a project.
+   
+3. Name the project HelloWorld.
+   
+4. Click Finish.
+   
+5. Select HelloWorld/src as the source folder.
+   
+6. Create a new class.
+   
+7. Name the class HelloWorld.
+   
+8. In the section "Which Method Stubs Would You Like to Create?", check the option for `public static void main(String[] args)`.
+   
+9.  Click Finish.
+   
+10. Under the main method write the following command: `System.out.println("Hello world!");`.
+    
+11. Save the file.
+    
+12. Right click the "HelloWorld" class and select Run As > Java Application. 
+
+
+You can notice that it takes a few more steps in Java than in Python. We also have to do things that don't make much sense right now. Some question you might have at this point: 
+
+- What does `public static void main(String[] args)` mean?
+- Why did we have to create a folder first before making our file? 
+- What is a class?
+
+## The Anatomy of a Java Program
+
+You might be able to see that a Java program has a different structure than a Python one. It has more parts than a Python program and that seems confusing at first. Let's break down why the file looks the way it does.
+
+### The Organization of Files
+
+#### Why Do We Create a Folder and a File?
+
+Our project folder (in our case the HelloWorld folder) will contain everything we need to run our program. 
+
+src contains all the java code we write which is organized into different packages
+
+different packages are best used for large projects. Makes code easier to find and work on. 
+
+Purpose of JRE system library allows us to use different functions and methods without importing them each time
+
+When we run our program on different computers the JRE system library ensures that all the functions from the libraries included run properly.  
+
+#### Why do we name our class the same things as our project? 
+
+This is so the compiler knows which class file to run at the start rather than searching through all of them. 
+
+#### What is the main method
+
+The main method is the method where the program starts. Once the file is ran it reads the instructions from here first. 
+
+#### Methods in Java
+
+
+
+
+
+
+
