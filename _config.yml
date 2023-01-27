@@ -11,7 +11,7 @@ title                    : "Abhay Parmar"
 subtitle                 : "A personal blog"
 title_separator          : "|"
 name                     : &name "Abhay Parmar"
-description              : &description "Computer Information Systems student at Mount Royal University"
+description              : &description "Computer Information Systems Student at Mount Royal University"
 url                      : https://aparm539.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aparm539/aparm539.github.io"
@@ -62,7 +62,7 @@ yandex_site_verification :
 author:
   name             : "Abhay Parmar"
   avatar           : "profile.PNG"
-  bio              : "Computer Information Systems student at Mount Royal University"
+  bio              : "Computer Information Systems Student at Mount Royal University"
   location         : "Calgary, Alberta"
   employer         :
   pubmed           : 
@@ -155,7 +155,7 @@ kramdown:
 
 # Collections
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -169,8 +169,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
+      comments: false
+      share: false
       related: true
   # _pages
   - scope:
@@ -187,8 +187,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
+      share: false
+      comment: false
 
 
 # Sass/SCSS
@@ -201,7 +201,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Edmonton # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
